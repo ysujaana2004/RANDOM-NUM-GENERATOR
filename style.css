@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana;
+    text-align: center;
+}
+
+#RollButton{            /* the # means id*/
+    font-size: 3em;
+    padding: 5px 25px;   /*space between element's border and content*/
+    border-radius: 5px   
+}
+
+.LABELS{
+    font-size: 3em;
+}
